@@ -6,7 +6,7 @@ setuptools.setup(
     author="Example Author",
     author_email="author@example.com",
     description="A small example package",
-    long_description=long_description,
+    long_description="Mettalex sdk package for conducting trade",
     long_description_content_type="text/markdown",
     url="https://github.com/MehulG/pyMettalex/",
     packages=setuptools.find_packages(),
